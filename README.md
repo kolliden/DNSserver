@@ -1,0 +1,2 @@
+# DNSserver
+basic dns
